@@ -29,7 +29,7 @@ http://210.210.155.35/qwr9ew/s/s03/02.m3u8
 http://210.210.155.35/qwr9ew/s/s04/01.m3u8
 #EXTINF:-1 group-title="Indonesia TV",INDOSIAR 2
 http://210.210.155.35/qwr9ew/s/s04/index10.m3u8
-#EXTINF:-1 group-title="Indonesia TV",ANTV
+#EXTINF:-1 tvg-logo="https://github.com/davidsonseventh/Id/blob/main/antv.jpeg" group-title="Indonesia TV",ANTV
 http://210.210.155.35/qwr9ew/s/s07/index1.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Berita",TVOne
 http://210.210.155.35/session/8ada75ba-2f85-11eb-9529-b82a72d63267/qwr9ew/s/s105/01.m3u8
