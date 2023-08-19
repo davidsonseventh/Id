@@ -7,7 +7,7 @@ https://video.detik.com/trans7/smil:trans7.smil/index.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-name="Trans Tv" tvg-logo="https://i.imgur.com/DKHUFVQ.png" tvg-id="ABPNews.in" group-title="Indonesia",Trans TV
 http://210.210.155.35/x6bnqe/s/s252/01.m3u8
 #EXTINF:-1 tvg-name="RCTI" tvg-logo="https://i.imgur.com/MohlE5B.png" tvg-id="DDNational.in" group-title="Indonesia",RCTI
-https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta.m3u8?checkedby:iptvcat.com
+https://www.rctiplus.com/tv/rcti
 #EXTINF:-1 tvg-name="NET TV" tvg-logo="https://i.imgur.com/znnVCEf.png" tvg-id="DDNews.in" group-title="Indonesia",NET TV FHD
 https://mr.bibbo.id/ccc/NETTV.m3u8
 #EXTINF:-1 tvg-name="Hope Channel Indonesia" tvg-logo="https://i.imgur.com/45uptR8.png" tvg-id="DDIndia.in" group-title="Indonesia",Hope Channel Indonesia
