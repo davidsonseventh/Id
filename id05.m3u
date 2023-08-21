@@ -51,8 +51,8 @@ http://210.210.155.35/qwr9ew/s/s13/index.m3u8
 http://103.23.201.170:1935/live/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://mr.bibbo.id/ccc/ntv.png" group-title="Indonesia TV",Nusantara TV
 https://v6.siar.us/nusantaratv/live/chunks.m3u8
-#EXTINF:-1 group-title="BeritaSatu",Berita Satu SD
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b1128000.m3u8
+#EXTINF:-1 group-title="Berita",Liputan 6
+https://ythls.onrender.com/video/AKQmj8YHZ9c.m3u8
 #EXTINF:-1 group-title="Berita",Berita Satu HD
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 #EXTINF:-1 group-title="Berita",Berita Satu World HD
