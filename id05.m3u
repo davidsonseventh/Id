@@ -21,7 +21,7 @@ https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w657754957_b3884000_s
 https://youtube.com/
 #EXTINF:-1 group-title="Indonesia TV",Hope Channel Indonesia
 https://ythls.onrender.com/channel/UCTR1wO3hnYzBs0BJIQAyZKw.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Indonesia TV",RCTI (720 P)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidsonseventh/Id/main/rcti.jpeg" group-title="Indonesia TV",RCTI (720 P)
 http://198.16.100.90:8278/Rcti/playlist.m3u8?tid=MC2C8104265481042654&ct=19249&tsum=a03f74405124dc54a0e467a91f2afe8d
 #EXTINF:-1 group-title="Indonesia TV",SCTV 2
 http://210.210.155.35/qwr9ew/s/s03/02.m3u8
@@ -33,7 +33,7 @@ http://210.210.155.35/qwr9ew/s/s04/index10.m3u8
 http://210.210.155.35/qwr9ew/s/s07/index1.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Berita",TVOne
 https://ythls.onrender.com/video/yNKvkPJl-tg.m3u8
-#EXTINF:-1 group-title="Berita",Kompas TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidsonseventh/Id/main/kompastv.jpeg" group-title="Berita",Kompas TV
 https://ythls.onrender.com/video/4rmf-lk3ito.m3u8
 #EXTINF:-1 group-title="Indonesia TV",TVRI
 http://210.210.155.35/qwr9ew/s/s11/index.m3u8
