@@ -97,8 +97,8 @@ http://210.210.155.35/uq2663/h/h998/live.m3u8
 http://45.126.83.51/uq2663/h/h155/S4/mnf.m3u8
 #EXTINF:-1,ONE
 http://rtmp.one.by:1300
-#EXTINF:-1,M2O TV
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
+#EXTINF:-1 group-title="Internasional",Cocomelon For Kids
+https://ythls.onrender.com/video/3P0uceoD3j8.m3u8
 #EXTINF:-1,MUSIC TOP
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w767435128_b2028000_sleng.m3u8
 #EXTINF:-1 tvg-logo="/storage/emulated/0/logo_tv/cbs.png" group-title="International",CBS
