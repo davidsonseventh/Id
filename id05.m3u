@@ -47,8 +47,12 @@ https://e1.siar.us/badartv/live/chunks.m3u8
 https://ythls.onrender.com/video/b65RAUPfzLM.m3u8
 #EXTINF:-1 group-title="Indonesia TV",DAAI TV
 http://210.210.155.35/qwr9ew/s/s13/index.m3u8
-#EXTINF:-1 group-title="Indonesia TV",CTV Banten
-http://103.23.201.170:1935/live/livestream/playlist.m3u8
+#EXTINF:-1 group-title="Indonesia TV",GTV 1
+https://kusnadipepenk.github.io/campeign/global.m3u8
+#EXTINF:-1 group-title="Indonesia TV",GTV 1
+https://kusnadipepenk.github.io/campeign/global.m3u8
+#EXTINF:-1 group-title="Indonesia TV",GTV 1
+https://kusnadipepenk.github.io/campeign/global.m3u8
 #EXTINF:-1 tvg-logo="https://mr.bibbo.id/ccc/ntv.png" group-title="Indonesia TV",Nusantara TV
 https://v6.siar.us/nusantaratv/live/chunks.m3u8
 #EXTINF:-1 group-title="Berita",Liputan 6
